@@ -1,0 +1,109 @@
+# Daniz — Generative Engine Optimization Map
+
+> תבנה לי אתר 
+שולחת לך תמונה של הלוגו 
+תשרי רק את הכיתוב שלו ללא כל הרקע הזה
+
+---
+
+## Pages
+
+### בית
+https://daniz-6f993bc4.zappy5.app
+Daniz מביאה פתרונות טכנולוגיים וייעוץ עסקי שמזניקים את העסק הקטן שלך לרמה הבאה. גלה איך אנחנו הופכים רעיונות למציאות דיגיטלית מנצחת.
+
+### אודות
+https://daniz-6f993bc4.zappy5.app/about
+הסיפור של Daniz מתחיל בתשוקה לטכנולוגיה ועסקים קטנים. בואו להכיר את הצוות, החזון והערכים שמובילים כל פרויקט ייעוץ ופיתוח שלנו.
+
+### גלריה
+https://daniz-6f993bc4.zappy5.app/gallery
+גלריית הפרויקטים של Daniz חושפת פתרונות טכנולוגיים שהקפיצו עסקים קטנים קדימה. ראה בעצמך את התוצאות שמדברות בעד עצמן ולך תקבל השראה.
+
+### צור קשר
+https://daniz-6f993bc4.zappy5.app/contact
+מוכן להצעיד את העסק שלך לעתיד? צור קשר עם Daniz עוד היום לשיחת ייעוץ ראשונית ללא התחייבות. הרעיון הגדול הבא שלך מחכה מעבר לפינה.
+
+### Products
+https://daniz-6f993bc4.zappy5.app/products
+המוצרים שלנו - Daniz
+
+### Cart
+https://daniz-6f993bc4.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://daniz-6f993bc4.zappy5.app/checkout
+תשלום
+
+### Login
+https://daniz-6f993bc4.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://daniz-6f993bc4.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://daniz-6f993bc4.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://daniz-6f993bc4.zappy5.app/product/:slug
+פרטי המוצר - Daniz
+
+### Category
+https://daniz-6f993bc4.zappy5.app/category/:slug
+מוצרים - Daniz
+
+### תודה רבה | Daniz
+https://daniz-6f993bc4.zappy5.app/thank-you
+הודעתך התקבלה בהצלחה אצל צוות Daniz. אנו נחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://daniz-6f993bc4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://daniz-6f993bc4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://daniz-6f993bc4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Daniz
+תבנה לי אתר 
+שולחת לך תמונה של הלוגו 
+תשרי רק את הכיתוב שלו ללא כל הרקע הזה
+
+## Target Audience
+- יזמי טכנולוגיה
+- בעלי עסקים קטנים
+- מנהלים בכירים
+- נערות נשים גברים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://daniz-6f993bc4.zappy5.app/sitemap.xml
+- Robots: https://daniz-6f993bc4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://daniz-6f993bc4.zappy5.app/llms-full.txt
+- Products (JSON): https://daniz-6f993bc4.zappy5.app/products.json
+- Products (Google Merchant RSS): https://daniz-6f993bc4.zappy5.app/product-feed.xml
