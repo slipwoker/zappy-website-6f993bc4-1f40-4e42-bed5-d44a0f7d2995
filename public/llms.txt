@@ -9,69 +9,69 @@
 ## Pages
 
 ### בית
-https://daniz-6f993bc4.zappy5.app
+https://example.com
 Daniz מביאה פתרונות טכנולוגיים וייעוץ עסקי שמזניקים את העסק הקטן שלך לרמה הבאה. גלה איך אנחנו הופכים רעיונות למציאות דיגיטלית מנצחת.
 
 ### אודות
-https://daniz-6f993bc4.zappy5.app/about
+https://example.com/about
 הסיפור של Daniz מתחיל בתשוקה לטכנולוגיה ועסקים קטנים. בואו להכיר את הצוות, החזון והערכים שמובילים כל פרויקט ייעוץ ופיתוח שלנו.
 
 ### גלריה
-https://daniz-6f993bc4.zappy5.app/gallery
+https://example.com/gallery
 גלריית הפרויקטים של Daniz חושפת פתרונות טכנולוגיים שהקפיצו עסקים קטנים קדימה. ראה בעצמך את התוצאות שמדברות בעד עצמן ולך תקבל השראה.
 
 ### צור קשר
-https://daniz-6f993bc4.zappy5.app/contact
+https://example.com/contact
 מוכן להצעיד את העסק שלך לעתיד? צור קשר עם Daniz עוד היום לשיחת ייעוץ ראשונית ללא התחייבות. הרעיון הגדול הבא שלך מחכה מעבר לפינה.
 
 ### Products
-https://daniz-6f993bc4.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Daniz
 
 ### Cart
-https://daniz-6f993bc4.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://daniz-6f993bc4.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://daniz-6f993bc4.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://daniz-6f993bc4.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://daniz-6f993bc4.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://daniz-6f993bc4.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Daniz
 
 ### Category
-https://daniz-6f993bc4.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Daniz
 
 ### תודה רבה | Daniz
-https://daniz-6f993bc4.zappy5.app/thank-you
+https://example.com/thank-you
 הודעתך התקבלה בהצלחה אצל צוות Daniz. אנו נחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://daniz-6f993bc4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://daniz-6f993bc4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://daniz-6f993bc4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://daniz-6f993bc4.zappy5.app/sitemap.xml
-- Robots: https://daniz-6f993bc4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://daniz-6f993bc4.zappy5.app/llms-full.txt
-- Products (JSON): https://daniz-6f993bc4.zappy5.app/products.json
-- Products (Google Merchant RSS): https://daniz-6f993bc4.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
